@@ -6,15 +6,6 @@ This repository is developed as the final project for the **Software Engineering
 
 <!-- TODO Complete -->
 
-## Team Members:
-
--   [Mohammad Mahdi Hejazi](https://github.com/mmhlego): Project Manager / Frontend Developer
--   [Erfan Zadsoltani](https://github.com/erfanzadsoltani): Backend Team Leader
--   [Mahsa Faramarzi](https://github.com/mahsafmz): Backend Developer
--   [Amir Karimi](https://github.com/Amirkarimi02): Backend Developer
--   Hadi Soleimani: UI Designer
--   [Mohammad Reza Abdollahzadeh](https://github.com/rezabdollahzadeh): Frontend Developer
-
 ## Technologies:
 
 List of all technologies used to make this project:
@@ -47,6 +38,5 @@ _Note that the frontend server runs on localhost:3000 and backend server runs on
 ## Other Resources
 
 -   List of Apis: [Swagger](https://app.swaggerhub.com/apis/mmhlego/SoftwareEngineeringProject/)
--   Frontend server: [Github](https://github.com/mmhlego/SE-Project-Frontend)
 
 <!-- MIT © [Sung M. Kim](https://sung.codes) -->
