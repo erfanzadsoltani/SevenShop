@@ -16,7 +16,7 @@ List of all technologies used to make this project:
 ## Usage
 
 To start working with the project, clone this repository alongside the [SE-Project-Frontend](https://github.com/mmhlego/SE-Project-Frontend) repository.
-In the next steep install the requirements for both frontend and backend server.
+In the next step install the requirements for both frontend and backend server.
 ## Backend requirements:
 -   Runs on localhost:5000
 -   [.Net 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
