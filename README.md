@@ -1,6 +1,6 @@
 # SE-Project-Backend
 
-This repository is developed as the final project for the **Software Engineering** course presented by [Drs Farzinvash](https://scholar.google.com/citations?user=n2dPplkAAAAJ&hl=en).
+This repository is developed as the Online Marketing web application in Asp.net core framework and with c# programming language.
 
 <!-- In this project an online shop is implemented -->
 
@@ -10,8 +10,8 @@ This repository is developed as the final project for the **Software Engineering
 
 List of all technologies used to make this project:
 
--   [Asp.net core (Web Api)]
--   [C# Programming Language]
+-   Asp.net core (Web Api)
+-   C# Programming Language
 
 ## Usage
 
