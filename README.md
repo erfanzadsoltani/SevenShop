@@ -15,7 +15,7 @@ List of all technologies used to make this project:
 
 ## Usage
 
-To start working with the project, clone this repository alongside the [SE-Project-Frontend](https://github.com/mmhlego/SE-Project-Frontend) repository.
+To start working with the project, clone this repository alongside the [SevenShop-Project-Frontend](https://github.com/erfanzadsoltani/SevenShop-Frontend) repository.
 In the next step install the requirements for both frontend and backend server.
 ## Backend requirements:
 -   Runs on localhost:5000
