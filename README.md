@@ -1,4 +1,4 @@
-# SE-Project-Backend
+# SevenShop-Project-Backend
 
 This repository is developed as the Online Marketing web application in Asp.net core framework and with c# programming language.
 
@@ -38,5 +38,6 @@ _Note that the frontend server runs on localhost:3000 and backend server runs on
 ## Other Resources
 
 -   List of Apis: [Swagger](https://app.swaggerhub.com/apis/mmhlego/SoftwareEngineeringProject/)
+-   Frontend server: [github](https://github.com/erfanzadsoltani/SevenShop-Frontend)
 
 <!-- MIT © [Sung M. Kim](https://sung.codes) -->
